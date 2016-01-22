@@ -22,7 +22,7 @@ public class conventionsandsyntaxpassoff : MonoBehaviour
 		Enter the correct statement.
 		*/
 
-		if (transform.position.y <= 10f ) 
+			if (transform.position.y <= 10f ) 
 		{
 			Debug.Log ("I'm going to splater!");
 		}
